@@ -356,7 +356,7 @@ const albumsData = {
         { id: 106, src: 'vino15.jpg', title: 'Vino P5', category: 'Portrait' }, 
         { id: 107, src: 'santo10.jpg', title: 'Susanto P5', category: 'Group' },
         { id: 108, src: 'owenchandra.jpg', title: 'Owen & Chandra P5', category: 'Moment' },
-        { id: 109, src: 'maverick.jpg', title: 'Maverick P5', category: 'Portrait' }
+        { id: 109, src: 'maverick10.jpg', title: 'Maverick P5', category: 'Portrait' }
     ]
 };
 
