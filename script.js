@@ -2,7 +2,7 @@
 const members = [
     { id: 1, name: 'Angelika', desc: 'The Scenography', photo: 'angelika.JPG', badge: 'TKJ' },
     { id: 2, name: 'Bryan Max Clarence', desc: 'Yearbook Committee', photo: 'bryan.JPG', badge: 'TKJ' },
-    { id: 3, name: 'Calvin Ricard', desc: 'General Affair', photo: 'calvin.JPG', badge: 'TKJ' },
+    { id: 3, name: 'Calvin Richard', desc: 'General Affair', photo: 'calvin.JPG', badge: 'TKJ' },
     { id: 4, name: 'Chandra Wijaya', desc: 'Assistant Project Manager & Developer', photo: 'chandra.JPG', badge: 'TKJ' },
     { id: 5, name: 'Chelsea suci tayomi', desc: 'Yearbook Committee', photo: 'tayomi.JPG', badge: 'Akuntansi' },
     { id: 6, name: 'Dicky Xaviera', desc: 'General Affair', photo: 'dicky.JPG', badge: 'TKJ' },
