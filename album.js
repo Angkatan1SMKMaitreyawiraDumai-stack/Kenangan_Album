@@ -1,4 +1,4 @@
-// Album Photo data for all categories
+    // Album Photo data for all categories
 const albumsData = {
     angkatan: [
         { id: 1, src: 'angkatan1.JPG', title: 'Foto Angkatan 1', category: 'Group' },
@@ -93,12 +93,12 @@ const albumsData = {
         { id: 90, src: 'PKL8.jpg', title: 'PKL (Praktik Kerja Lapangan)', category: 'Portrait' },
         { id: 91, src: 'PKL9.jpg', title: 'PKL (Praktik Kerja Lapangan)', category: 'Portrait' },
         { id: 92, src: 'PKL10.jpg', title: 'PKL (Praktik Kerja Lapangan)', category: 'Portrait' },
-        { id: 93, src: 'makan sehat.JPG', title: 'Makan Sehat', category: 'Portrait' },
-        { id: 94, src: 'makan sehat2.JPG', title: 'Makan Sehat', category: 'Portrait' },
-        { id: 95, src: 'makan sehat3.JPG', title: 'Makan Sehat', category: 'Portrait' },
-        { id: 96, src: 'makan sehat4.JPG', title: 'Makan Sehat', category: 'Portrait' },
-        { id: 97, src: 'makan sehat5.JPG', title: 'Makan Sehat', category: 'Portrait' },
-        { id: 98, src: 'makan sehat6.JPG', title: 'Makan Sehat', category: 'Portrait' }
+        { id: 93, src: 'makan sehat.jpg', title: 'Makan Sehat', category: 'Portrait' },
+        { id: 94, src: 'makan sehat2.jpg', title: 'Makan Sehat', category: 'Portrait' },
+        { id: 95, src: 'makan sehat3.jpg', title: 'Makan Sehat', category: 'Portrait' },
+        { id: 96, src: 'makan sehat4.jpg', title: 'Makan Sehat', category: 'Portrait' },
+        { id: 97, src: 'makan sehat5.jpg', title: 'Makan Sehat', category: 'Portrait' },
+        { id: 98, src: 'makan sehat6.jpg', title: 'Makan Sehat', category: 'Portrait' }
     ],
     tkj: [
         { id: 1, src: 'jumanji1.jpg', title: 'Jumanji', category: 'Portrait' },
@@ -351,9 +351,12 @@ const albumsData = {
         { id: 101, src: 'chandra4.jpeg', title: 'Chandra Wijaya', category: 'Group' },
         { id: 102, src: 'chandra5.jpeg', title: 'Chandra Wijaya', category: 'Moment' },
         { id: 103, src: 'chandra6.jpeg', title: 'Chandra Wijaya', category: 'Portrait' },  
-        { id: 104, src: 'welem10.jpg', title: 'Chandra Wijaya', category: 'Group' },
-        { id: 105, src: 'welem11.jpg', title: 'Chandra Wijaya', category: 'Moment' },
-        { id: 106, src: 'vino15.jpg', title: 'Chandra Wijaya', category: 'Portrait' }
+        { id: 104, src: 'welem10.jpg', title: 'Weliem P5', category: 'Group' },
+        { id: 105, src: 'welem11.jpg', title: 'Weliem P5', category: 'Moment' },
+        { id: 106, src: 'vino15.jpg', title: 'Vino P5', category: 'Portrait' }, 
+        { id: 107, src: 'santo10.jpg', title: 'Susanto P5', category: 'Group' },
+        { id: 108, src: 'owenchandra.jpg', title: 'Owen & Chandra P5', category: 'Moment' },
+        { id: 109, src: 'maverick.jpg', title: 'Maverick P5', category: 'Portrait' }
     ]
 };
 
