@@ -22,7 +22,7 @@ const members = [
     { id: 20, name: 'Valentina', desc: 'Legacy Committee', photo: 'valentina.jpg', badge: 'Akuntansi' },
     { id: 21, name: 'Vannessa angelin', desc: 'The Scenography & Yearbook Committee', photo: 'vanessa.jpg', badge: 'Akuntansi' },
     { id: 22, name: 'Veronica Vernanda.C', desc: 'The Scenography', photo: 'veronica.jpg', badge: 'TKJ' },
-    { id: 23, name: 'Vino Tandra', desc: 'The Scenography', photo: 'vino.JPG', badge: 'TKJ' },
+    { id: 23, name: 'Vino Tandra', desc: 'The Scenography', photo: 'vino.jpg', badge: 'TKJ' },
     { id: 24, name: 'Weliem Lho', desc: 'Project Manager', photo: 'weliem.jpg', badge: 'TKJ' },
     { id: 25, name: 'Wilson', desc: 'Program Director', photo: 'wilson.jpg', badge: 'TKJ' }
 ];
