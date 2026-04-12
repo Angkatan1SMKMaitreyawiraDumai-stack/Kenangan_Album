@@ -208,7 +208,7 @@ const albumsData = {
         { id: 29, src: 'budat5.jpg', title: 'Caught in the garden’s glow.(Melani)', category: 'Moment' },
         { id: 30, src: 'budat6.jpg', title: 'Caught in the garden’s glow.(Vanessa)', category: 'Memory' },
         { id: 31, src: 'budat7.jpg', title: 'Caught in the garden’s glow.(Selly)', category: 'Portrait' },
-        { id: 32, src: 'budat8.jpg', title: 'Caught in the garden’s glow.(Selly)', category: 'Moment' },
+        { id: 32, src: 'budat8.JPG', title: 'Caught in the garden’s glow.(Selly)', category: 'Moment' },
         { id: 33, src: 'budat9.jpg', title: 'Caught in the garden’s glow.(Tayomi)', category: 'Memory' },
         { id: 34, src: 'budat10.jpg', title: 'Caught in the garden’s glow.', category: 'Portrait' },
         { id: 35, src: 'pantaiak1.jpg', title: 'Ocean whispers in floral hues.', category: 'Moment' },
